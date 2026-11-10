@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node scripts/optimize-images.cjs && node scripts/build.cjs && sass src/styles/site.scss /private/tmp/ibc-site.css --no-source-map && tailwindcss -c tailwind.config.cjs -i /private/tmp/ibc-site.css -o dist/assets/site.css --minify && node scripts/inline-css.cjs",
+    "build": "node scripts/build-site.cjs",
     "start": "node scripts/serve.cjs",
     "validate": "node scripts/validate.cjs",
-    "validate:images": "node scripts/validate-images.cjs"
+    "validate:images": "node scripts/validate-images.cjs",
+    "prepare:pages": "node scripts/prepare-pages.cjs",
+    "validate:pages": "node scripts/validate-pages.cjs"
   },
   "keywords": [],
   "author": "",

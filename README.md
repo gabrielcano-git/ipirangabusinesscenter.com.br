@@ -35,3 +35,23 @@ PORT=4183 npm start
 ```
 
 Prévia da execução de otimização: **http://127.0.0.1:4183/**. A porta alternativa evita o processo antigo na 4173. Evidências e limitações em `validacao/core-web-vitals.md`; LCP, INP e CLS ainda não foram medidos em navegador.
+
+## Publicação de validação no GitHub Pages
+
+O workflow `.github/workflows/pages.yml` executa o build e as verificações antes de publicar **somente `dist/`**. Publicações ocorrem em pushes para `main` ou manualmente em Actions → “Publicar prévia no GitHub Pages” → “Run workflow”.
+
+No repositório de destino, selecione **Settings → Pages → Build and deployment → Source → GitHub Actions**. A URL definitiva aparece no ambiente `github-pages` e no resumo da execução concluída. Não é necessário configurar domínio personalizado, DNS, `CNAME` ou secrets de deploy.
+
+A ação `configure-pages` informa automaticamente o subdiretório da prévia. O script `prepare-pages.cjs` ajusta navegação, fotos, srcsets, preload e JavaScript para esse prefixo, adiciona `.nojekyll` e marca as páginas como `noindex, nofollow`. A prévia mantém os canonicals de produção e não publica sitemap; isso não constitui controle de acesso ao site público.
+
+Para reproduzir a preparação de um site de projeto:
+
+```sh
+npm run build
+npm run validate
+npm run validate:images
+PAGES_BASE_PATH=/ipirangabusinesscenter.com.br npm run prepare:pages
+PAGES_BASE_PATH=/ipirangabusinesscenter.com.br npm run validate:pages
+```
+
+Execute `npm run build` novamente para restaurar a versão local sem prefixo. O build usa a pasta temporária do sistema e funciona em macOS e Linux. Antes de enviar todo o histórico a um novo repositório público, confira o conteúdo versionado: auditorias e evidências não entram no site, mas podem estar no histórico Git enviado.
