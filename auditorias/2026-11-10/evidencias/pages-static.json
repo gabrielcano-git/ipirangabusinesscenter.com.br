@@ -1,0 +1,4445 @@
+{
+  "contato": {
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Fale conosco"
+      },
+      {
+        "tag": "h6",
+        "text": "Entre em contato conosco! Agende uma visita ou solicite mais informações dos serviços de seu interesse."
+      },
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Contato | ipiranga-business"
+    ],
+    "metadata": [],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br/contato"
+      }
+    ],
+    "structured_data": [],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "Fale conosco",
+      "Entre em contato conosco! Agende uma visita ou solicite mais informações dos serviços de seu interesse.",
+      "WhatsApp\n(11) 96039-2977\n\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br\n\nHorário de funcionamento: 8:30 às 18:00",
+      "Parabéns! Sua mensagem foi recebida.",
+      "Rua Salvador Simões 918,\nCEP: 04276-000 - São Paulo/SP\n ",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "nome-*",
+          "id": "input_comp-kf5d7q0n",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Nome *",
+          "required": "",
+          "aria-invalid": "false",
+          "maxlength": "100",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "email",
+          "id": "input_comp-kf5d7q0s",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "email",
+          "placeholder": "Email *",
+          "required": "",
+          "aria-invalid": "false",
+          "pattern": "^.+@.+\\.[a-zA-Z]{2,63}$",
+          "maxlength": "250",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "assunto",
+          "id": "input_comp-kf5d7q0x",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Assunto",
+          "aria-invalid": "false",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "label",
+        "attrs": {
+          "for": "textarea_comp-kf5d7q11",
+          "class": "P3lL3X wixui-text-box__label"
+        },
+        "text": ""
+      },
+      {
+        "tag": "textarea",
+        "attrs": {
+          "id": "textarea_comp-kf5d7q11",
+          "class": "XXgBXC has-custom-focus wixui-text-box__input",
+          "placeholder": "Mensagem",
+          "aria-required": "false",
+          "aria-invalid": "false"
+        },
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  },
+  "escritorio-virtual": {
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "escritório virtual"
+      },
+      {
+        "tag": "h6",
+        "text": "Passar uma boa imagem é fundamental nos negócios\ne o endereço certo pode ser o elemento chave para o seu sucesso"
+      },
+      {
+        "tag": "h6",
+        "text": "Fale conosco"
+      },
+      {
+        "tag": "h6",
+        "text": "Veja também"
+      },
+      {
+        "tag": "h2",
+        "text": "ESCRITÓRIO VIRTUAL"
+      },
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Escritório Virtual | Ipiranga Business"
+    ],
+    "metadata": [
+      {
+        "name": "description",
+        "content": "O escritório virtual é a solução ideal para profissionais que não precisam estar em um escritório fixo, mas precisam de um endereço comercial."
+      }
+    ],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual"
+      }
+    ],
+    "structured_data": [],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "escritório virtual",
+      "Passar uma boa imagem é fundamental nos negócios\ne o endereço certo pode ser o elemento chave para o seu sucesso",
+      "O escritório virtual é a solução ideal para profissionais que não precisam estar em um escritório fixo, mas sentem a necessidade de um endereço comercial.",
+      "​",
+      "Para garantir um atendimento de excelencia a seus clientes fazemos a gestão de suas correspondencias e oferecemos um atendimento telefonico com recados via whatsapp, assim as informações chegam o mais rápido possivel a você viabilizando um atendimento imediato.",
+      " ",
+      "Além disso, dispomos em nosso espaço Sala de Reunião ou Sala Privativa de atendimento (valor cobrado por hora) com café  servido em sala. Assim, quando necessário, você poderá atender aos seus clientes em um ambiente empresarial com excelente localização e de fácil acesso, a apenas 200m do metrô Alto do Ipiranga. Caso precise de mais horas de sala reunião, você poderá consultar nossas tarifas e contratar horas extras.​",
+      "Fale conosco",
+      "Sua mensagem foi enviada com sucesso! Em breve entraremos em contato.",
+      "Veja também",
+      "ESCRITÓRIO VIRTUAL",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "nome-*",
+          "id": "input_comp-kf5d7ou7",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Nome *",
+          "required": "",
+          "aria-invalid": "false",
+          "maxlength": "100",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "email",
+          "id": "input_comp-kf5d7oun",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "email",
+          "placeholder": "Email *",
+          "required": "",
+          "aria-invalid": "false",
+          "pattern": "^.+@.+\\.[a-zA-Z]{2,63}$",
+          "maxlength": "250",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "phone",
+          "id": "input_comp-kf5d7out",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "tel",
+          "placeholder": "Telefone",
+          "aria-invalid": "false",
+          "maxlength": "50",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "escritório-virtual",
+          "id": "input_comp-kf5d7ov0",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Escritório Virtual",
+          "aria-invalid": "false",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "label",
+        "attrs": {
+          "for": "textarea_comp-kf5d7ov5",
+          "class": "P3lL3X wixui-text-box__label"
+        },
+        "text": ""
+      },
+      {
+        "tag": "textarea",
+        "attrs": {
+          "id": "textarea_comp-kf5d7ov5",
+          "class": "XXgBXC has-custom-focus wixui-text-box__input",
+          "placeholder": "Mensagem",
+          "aria-required": "false",
+          "aria-invalid": "false"
+        },
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_d981d981e0cf4aa88916fd98252d67d5.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_d981d981e0cf4aa88916fd98252d67d5.jpg",
+        "alt": "",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "1920",
+        "height": "1920"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_aa98544a786a40dea0fdb10b0376ae09.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_aa98544a786a40dea0fdb10b0376ae09.jpg",
+        "alt": "Escritório Compartilhado",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_a015561776e44b0f9497ad1c4800e67b.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_a015561776e44b0f9497ad1c4800e67b.jpg",
+        "alt": "Escritório Individual",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/bf5a2b_6298c1168eab4b41839df4abd9662449~mv2_d_4592_2576_s_4_2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bf5a2b_6298c1168eab4b41839df4abd9662449~mv2_d_4592_2576_s_4_2.jpg",
+        "alt": "DSC00042",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/bf5a2b_d7c25ad5f5964b2b9feb9cd069018797~mv2_d_4592_2576_s_4_2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bf5a2b_d7c25ad5f5964b2b9feb9cd069018797~mv2_d_4592_2576_s_4_2.jpg",
+        "alt": "DSC00066",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_92fc62d9e596497dab913badf6642c93.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_92fc62d9e596497dab913badf6642c93.jpg",
+        "alt": "Coffee",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/bf5a2b_26d5296a258941979d2767441d36ae0d~mv2_d_4592_2576_s_4_2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bf5a2b_26d5296a258941979d2767441d36ae0d~mv2_d_4592_2576_s_4_2.jpg",
+        "alt": "DSC00053",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_126,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png 1x, https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_238,h_227,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png 2x",
+        "id": "img_comp-indi6a4q",
+        "src": "https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_126,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "120"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_126,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png 1x, https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_238,h_238,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png 2x",
+        "id": "img_comp-indi6a5i",
+        "src": "https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_126,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "126"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_126,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 1x, https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_238,h_234,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 2x",
+        "id": "img_comp-indi6a6k",
+        "src": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_126,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "124"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "aria-current": "page",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "COWORKING",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "COWORKING"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "LOCAÇÃO DE SALAS",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "LOCAÇÃO DE SALAS"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "IPIRANGA TRAINING",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "IPIRANGA TRAINING"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  },
+  "home": {
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "o centro de negócios do bairro ipiranga"
+      },
+      {
+        "tag": "h2",
+        "text": "fácil acesso"
+      },
+      {
+        "tag": "h6",
+        "text": "Fale conosco"
+      },
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Ipiranga Business Center"
+    ],
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Trabalhamos com soluções corporativas, oferecendo espaço de coworking, salas para treinamentos, escritório virtual e desenvolvimento profissional."
+      }
+    ],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br"
+      }
+    ],
+    "structured_data": [
+      "{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"ipiranga-business\",\"url\":\"https://www.ipirangabusinesscenter.com.br\"}"
+    ],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "o centro de negócios do bairro ipiranga",
+      "Crie, desenvolva e compartilhe o seu negócio com o melhor que o Bairro do Ipiranga tem à oferecer",
+      "Tenha um espaço profissional, privativo e mobiliado para atender seus clientes e desenvolver seu negócio. Escolha a sala ideal para você e conte com uma estrutura completa, despesas inclusas e contratos mais flexíveis do que na locação comercial tradicional.",
+      "Passar uma boa imagem é fundamental nos negócios e o endereço certo pode ser o elemento chave para o seu sucesso.Esta solução é ideal para profissionais que não precisam estar em um escritório fixo, mas sentem a necessidade de um endereço comercial.",
+      "Com capacidade para até 40 pessoas e uma localização privilegiada a 200m do metrô Alto do Ipiranga (Linha-verde), Oferecemos toda a infraestrutura e comodidade necessária para a realização de eventos corporativos.",
+      "Agora no Ipiranga, você encontra serviços, para alavancar ainda mais o seu Talento e de sua Equipe. Treinamento, Palestras, Cursos, Workshops, entre outros, desenvolvemos a programação conforme a necessidade da sua empresa.",
+      "fácil acesso",
+      "Estamos ao lado da estação do metrô\nAlto do Ipiranga, venha nos visitar!\n\nRua Salvador Simões, 918 - Bairro do Ipiranga",
+      "",
+      "",
+      "",
+      "",
+      "Fale conosco",
+      "Parabéns! Sua mensagem foi recebida.",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "nome-*",
+          "id": "input_comp-kf5bcemy",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Nome *",
+          "required": "",
+          "aria-invalid": "false",
+          "maxlength": "100",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "email",
+          "id": "input_comp-kf5bcena",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "email",
+          "placeholder": "Email *",
+          "required": "",
+          "aria-invalid": "false",
+          "pattern": "^.+@.+\\.[a-zA-Z]{2,63}$",
+          "maxlength": "250",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "assunto",
+          "id": "input_comp-kf5bceng",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Assunto",
+          "aria-invalid": "false",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "label",
+        "attrs": {
+          "for": "textarea_comp-kf5bcenl",
+          "class": "P3lL3X wixui-text-box__label"
+        },
+        "text": ""
+      },
+      {
+        "tag": "textarea",
+        "attrs": {
+          "id": "textarea_comp-kf5bcenl",
+          "class": "XXgBXC has-custom-focus wixui-text-box__input",
+          "placeholder": "Mensagem",
+          "aria-required": "false",
+          "aria-invalid": "false"
+        },
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_df972d8a7c604f3ab98704a38c78005d.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_df972d8a7c604f3ab98704a38c78005d.jpg",
+        "alt": "",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "1920",
+        "height": "1920"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "153px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_153,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png 1x, https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_238,h_218,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png 2x",
+        "id": "img_comp-in68aq1a",
+        "src": "https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_153,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "153",
+        "height": "140"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "153px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_153,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 1x, https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_238,h_218,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 2x",
+        "id": "img_comp-in9spiyz",
+        "src": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_153,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "153",
+        "height": "140"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "152px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_152,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png 1x, https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_238,h_232,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png 2x",
+        "id": "img_comp-in9spov6",
+        "src": "https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_152,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "152",
+        "height": "148"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "153px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_153,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 1x, https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_238,h_224,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 2x",
+        "id": "img_comp-in9sptno",
+        "src": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_153,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "153",
+        "height": "144"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "479px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_5d8cbe08cebe4777b1e2c70bac2ea61c~mv2.png/v1/fill/w_479,h_193,al_c,q_85,enc_avif,quality_auto/bf5a2b_5d8cbe08cebe4777b1e2c70bac2ea61c~mv2.png 1x, https://static.wixstatic.com/media/bf5a2b_5d8cbe08cebe4777b1e2c70bac2ea61c~mv2.png/v1/fill/w_671,h_270,al_c,lg_1,q_85,enc_avif,quality_auto/bf5a2b_5d8cbe08cebe4777b1e2c70bac2ea61c~mv2.png 2x",
+        "id": "img_comp-imvc9r1n",
+        "src": "https://static.wixstatic.com/media/bf5a2b_5d8cbe08cebe4777b1e2c70bac2ea61c~mv2.png/v1/fill/w_479,h_193,al_c,q_85,enc_avif,quality_auto/bf5a2b_5d8cbe08cebe4777b1e2c70bac2ea61c~mv2.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "479",
+        "height": "193"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_b69f53a001d1453daf37e34c29156851.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_b69f53a001d1453daf37e34c29156851.jpg",
+        "alt": "Locação de Salas",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/bf5a2b_6298c1168eab4b41839df4abd9662449~mv2_d_4592_2576_s_4_2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bf5a2b_6298c1168eab4b41839df4abd9662449~mv2_d_4592_2576_s_4_2.jpg",
+        "alt": "DSC00042",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_92fc62d9e596497dab913badf6642c93.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_92fc62d9e596497dab913badf6642c93.jpg",
+        "alt": "Coffee",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_b69f53a001d1453daf37e34c29156851.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_b69f53a001d1453daf37e34c29156851.jpg",
+        "alt": "Locação de Salas",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "Conheça",
+        "attrs": {
+          "data-testid": "linkElement",
+          "data-anchor": "dataItem-ingae6yi",
+          "data-anchor-comp-id": "comp-ingae6yh",
+          "href": "https://www.ipirangabusinesscenter.com.br#conhea",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Conheça"
+        }
+      },
+      {
+        "text": "CONHEÇA",
+        "attrs": {
+          "data-testid": "linkElement",
+          "data-anchor": "dataItem-ingae6yi",
+          "data-anchor-comp-id": "comp-ingae6yh",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "wyuZN7",
+          "aria-labelledby": "anchor-label_comp-ingae6yh"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "SALA COMERCIAL PRIVATIVA",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "SALA COMERCIAL PRIVATIVA"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "ESCRITÓRIO VIRTUAL",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "ESCRITÓRIO VIRTUAL"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "LOCAÇÃO DE AUDITÓRIO",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "LOCAÇÃO DE AUDITÓRIO"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "IPIRANGA TRAINING",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "IPIRANGA TRAINING"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "Veja no Google Maps",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.google.com.br/maps/place/Ipiranga+Business+Center/@-23.601757,-46.613946,113m/data=!3m1!1e3!4m13!1m7!3m6!1s0x94ce5bbe41b9cc19:0x986421cab8e6f6f3!2sR.+Salvador+Sim%C3%B5es,+918+-+Vila+Dom+Pedro+I,+S%C3%A3o+Paulo+-+SP!3b1!8m2!3d-23.6017828!4d-46.6140167!3m4!1s0x94ce5bbe41b7ef51:0x6cfe5fb260456733!8m2!3d-23.6017828!4d-46.6140167?hl=pt-BR",
+          "target": "_blank",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Veja no Google Maps"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  },
+  "ipiranga-training": {
+    "headings": [
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Seaside B&B"
+    ],
+    "metadata": [],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training"
+      }
+    ],
+    "structured_data": [],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "Uma iniciativa da Ipiranga Business",
+      "Para alavancar ainda mais o seu talento e o da sua equipe",
+      "COACHING",
+      "Uma poderosa ferramenta para aumentar sua competência profissional e pessoal.",
+      "CONSULTORIA",
+      "Para ajudar você ou sua empresa a identificar as necessidades profissionais para o desenvolvimento individual e/ou organizacional.",
+      "CURSOS",
+      "&",
+      "PALESTRAS",
+      "Customizados de acordo com o contexto, necessidades e características de cada cliente e negócio.",
+      "SERVIÇOS DE RH",
+      "Você precisa estar preparado para enfrentar seus concorrentes e nós podemos ajudá-lo a destacar o seu potencial.",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [],
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_440e3d4c053640ccbaa38744a21a6ea1.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_440e3d4c053640ccbaa38744a21a6ea1.jpg",
+        "alt": "",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "1920",
+        "height": "1920"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "163px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_c0018577ce1e493fb0d2e34d5cf5d9aa.png/v1/crop/x_0,y_8,w_1244,h_567/fill/w_163,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_c0018577ce1e493fb0d2e34d5cf5d9aa.png 1x, https://static.wixstatic.com/media/fb847d_c0018577ce1e493fb0d2e34d5cf5d9aa.png/v1/crop/x_0,y_8,w_1244,h_567/fill/w_326,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_c0018577ce1e493fb0d2e34d5cf5d9aa.png 2x",
+        "id": "img_comp-io0v0tq8",
+        "src": "https://static.wixstatic.com/media/fb847d_c0018577ce1e493fb0d2e34d5cf5d9aa.png/v1/crop/x_0,y_8,w_1244,h_567/fill/w_163,h_74,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_c0018577ce1e493fb0d2e34d5cf5d9aa.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "163",
+        "height": "74"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "111px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_9aa8f5329b5b4004861c4e39d07bec94.png/v1/fill/w_111,h_51,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_9aa8f5329b5b4004861c4e39d07bec94.png 1x, https://static.wixstatic.com/media/fb847d_9aa8f5329b5b4004861c4e39d07bec94.png/v1/fill/w_222,h_102,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_9aa8f5329b5b4004861c4e39d07bec94.png 2x",
+        "id": "img_comp-io0udu2f",
+        "src": "https://static.wixstatic.com/media/fb847d_9aa8f5329b5b4004861c4e39d07bec94.png/v1/fill/w_111,h_51,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_9aa8f5329b5b4004861c4e39d07bec94.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "111",
+        "height": "51"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "456px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_4c2eab7de95048689d22d72f53fbdbb2.png/v1/fill/w_456,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_4c2eab7de95048689d22d72f53fbdbb2.png 1x, https://static.wixstatic.com/media/fb847d_4c2eab7de95048689d22d72f53fbdbb2.png/v1/fill/w_871,h_493,al_c,q_90,enc_avif,quality_auto/fb847d_4c2eab7de95048689d22d72f53fbdbb2.png 2x",
+        "id": "img_comp-io0udu2a",
+        "src": "https://static.wixstatic.com/media/fb847d_4c2eab7de95048689d22d72f53fbdbb2.png/v1/fill/w_456,h_258,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_4c2eab7de95048689d22d72f53fbdbb2.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "456",
+        "height": "258"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Voltar para Ipiranga Business",
+        "attrs": {
+          "data-testid": "linkElement",
+          "data-anchor": "dataItem-ineohjuj",
+          "data-anchor-comp-id": "comp-ineohjuf",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training#ncora1",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Voltar para Ipiranga Business"
+        }
+      },
+      {
+        "text": "Veja abaixo",
+        "attrs": {
+          "data-testid": "linkElement",
+          "data-anchor": "dataItem-ineohjuj",
+          "data-anchor-comp-id": "comp-ineohjuf",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training#ncora1",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Veja abaixo"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  },
+  "locacao-de-sala-para-treinamento": {
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "locação de AUDITÓRIO"
+      },
+      {
+        "tag": "h6",
+        "text": "Toda a infraestrutura e comodidade necessária para a realização de eventos corporativos.\nA 200m do metrô Alto do Ipiranga (Linha-verde)"
+      },
+      {
+        "tag": "h2",
+        "text": "capacidade máxima\n36 pessoas"
+      },
+      {
+        "tag": "h6",
+        "text": "fale conosco"
+      },
+      {
+        "tag": "h6",
+        "text": "Veja também"
+      },
+      {
+        "tag": "h6",
+        "text": "Clientes que acreditam em nós"
+      },
+      {
+        "tag": "h6",
+        "text": "Depoimentos"
+      },
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Locação de Salas para Treinamento | Ipiranga Business"
+    ],
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Locação de salas para treinamentos e eventos corporativos a 200m do metrô Alto do Ipiranga com toda a infraestrutura e comodidade necessárias."
+      }
+    ],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento"
+      }
+    ],
+    "structured_data": [],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "locação de AUDITÓRIO",
+      "Toda a infraestrutura e comodidade necessária para a realização de eventos corporativos.\nA 200m do metrô Alto do Ipiranga (Linha-verde)",
+      "capacidade máxima\n36 pessoas",
+      "Projetor",
+      "Tela",
+      "TV's",
+      "Flip Charts",
+      "Internet",
+      "WiFi Livre",
+      "Espaço para\nCoffee-Break",
+      "fale conosco",
+      "Sua mensagem foi enviada com sucesso! Em breve entraremos em contato.",
+      "Veja também",
+      "Clientes que acreditam em nós",
+      "Motivação Sistêmica",
+      "Focal Treinamentos Ltda",
+      "De Millus",
+      "FlyTour",
+      "Empresa Qualifica Mais Saúde",
+      "Espaço da Libras",
+      "Suprema Assessoria",
+      "Três Corações ",
+      "Libbs ",
+      "Curavet",
+      "Status Cursos",
+      "Instituto Lev Chadash",
+      "Agência Lápis de Cor",
+      "Central da Saúde",
+      "Instituto Brasileiro de Treinamento e Pesquisa em Lentes de Contato",
+      "Lava Tudo ",
+      "Depoimentos",
+      "\"As pessoas aqui acolhem com muito carinho e se preocupam muito com os detalhes, o lugar é lindo. Vale a pena o investimento na estrutura e ficamos muito felizes de poder estar aqui nesta parceria. Nosso trabalho exige um lugar onde as pessoas possam se concentrar e aqui encontramos essa possibilidade (...) também temos a facilidade de termos o metrô do lado. São por essas características que recomendamos o lugar.\" Motivação Sistêmica",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "nome-*",
+          "id": "input_comp-kf5bcgkq",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Nome *",
+          "required": "",
+          "aria-invalid": "false",
+          "maxlength": "100",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "email",
+          "id": "input_comp-kf5bcgl1",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "email",
+          "placeholder": "Email *",
+          "required": "",
+          "aria-invalid": "false",
+          "pattern": "^.+@.+\\.[a-zA-Z]{2,63}$",
+          "maxlength": "250",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "phone",
+          "id": "input_comp-kf5bcgl6",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "tel",
+          "placeholder": "Telefone",
+          "aria-invalid": "false",
+          "maxlength": "50",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "locação-de salas",
+          "id": "input_comp-kf5bcglb",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Locação de Salas",
+          "aria-invalid": "false",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "label",
+        "attrs": {
+          "for": "textarea_comp-kf5bcgli",
+          "class": "P3lL3X wixui-text-box__label"
+        },
+        "text": ""
+      },
+      {
+        "tag": "textarea",
+        "attrs": {
+          "id": "textarea_comp-kf5bcgli",
+          "class": "XXgBXC has-custom-focus wixui-text-box__input",
+          "placeholder": "Mensagem",
+          "aria-required": "false",
+          "aria-invalid": "false"
+        },
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_2537513613fb4a35a5654bf17ed6ffe7.jpg/v1/fill/w_288,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_2537513613fb4a35a5654bf17ed6ffe7.jpg",
+        "alt": "",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "1920",
+        "height": "1920"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_088cdc5961bd4fa18ac410813aeb7394.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_088cdc5961bd4fa18ac410813aeb7394.png 1x, https://static.wixstatic.com/media/fb847d_088cdc5961bd4fa18ac410813aeb7394.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_088cdc5961bd4fa18ac410813aeb7394.png 2x",
+        "id": "img_comp-indnzik7",
+        "src": "https://static.wixstatic.com/media/fb847d_088cdc5961bd4fa18ac410813aeb7394.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_088cdc5961bd4fa18ac410813aeb7394.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png 1x, https://static.wixstatic.com/media/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png 2x",
+        "id": "img_comp-indnzikc1",
+        "src": "https://static.wixstatic.com/media/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_b6ce83fea68e4ab6b98754aad5472409.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_b6ce83fea68e4ab6b98754aad5472409.png 1x, https://static.wixstatic.com/media/fb847d_b6ce83fea68e4ab6b98754aad5472409.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_b6ce83fea68e4ab6b98754aad5472409.png 2x",
+        "id": "img_comp-indnzikj1",
+        "src": "https://static.wixstatic.com/media/fb847d_b6ce83fea68e4ab6b98754aad5472409.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_b6ce83fea68e4ab6b98754aad5472409.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "95px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_9875490efabb43ec819eb8eedd321429.png/v1/fill/w_95,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_9875490efabb43ec819eb8eedd321429.png 1x, https://static.wixstatic.com/media/fb847d_9875490efabb43ec819eb8eedd321429.png/v1/fill/w_159,h_161,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_9875490efabb43ec819eb8eedd321429.png 2x",
+        "id": "img_comp-indnzil3",
+        "src": "https://static.wixstatic.com/media/fb847d_9875490efabb43ec819eb8eedd321429.png/v1/fill/w_95,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_9875490efabb43ec819eb8eedd321429.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "95",
+        "height": "96"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png 1x, https://static.wixstatic.com/media/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png 2x",
+        "id": "img_comp-indnzikv",
+        "src": "https://static.wixstatic.com/media/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_e6df7970dd234eeeb073927d9d057751.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e6df7970dd234eeeb073927d9d057751.png 1x, https://static.wixstatic.com/media/fb847d_e6df7970dd234eeeb073927d9d057751.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_e6df7970dd234eeeb073927d9d057751.png 2x",
+        "id": "img_comp-indnziko",
+        "src": "https://static.wixstatic.com/media/fb847d_e6df7970dd234eeeb073927d9d057751.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e6df7970dd234eeeb073927d9d057751.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png 1x, https://static.wixstatic.com/media/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png 2x",
+        "id": "img_comp-indnzil8",
+        "src": "https://static.wixstatic.com/media/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_126,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png 1x, https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_238,h_227,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png 2x",
+        "id": "img_comp-indmvqpp",
+        "src": "https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_126,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "120"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_126,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 1x, https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_238,h_238,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 2x",
+        "id": "img_comp-indmvqqq",
+        "src": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_126,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "126"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_126,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 1x, https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_238,h_234,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 2x",
+        "id": "img_comp-indmvqrn",
+        "src": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_126,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "124"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "aria-current": "page",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "COWORKING",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "COWORKING"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "IPIRANGA TRAINING",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "IPIRANGA TRAINING"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "ESCRITÓRIO VIRTUAL",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "ESCRITÓRIO VIRTUAL"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  },
+  "quem-somos": {
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "QUEM SOMOS"
+      },
+      {
+        "tag": "h6",
+        "text": "Um centro de negócios e desenvolvimento profissional\nlocalizado no bairro do Ipiranga em SP"
+      },
+      {
+        "tag": "h6",
+        "text": "Missão"
+      },
+      {
+        "tag": "h6",
+        "text": "Compromisso"
+      },
+      {
+        "tag": "h6",
+        "text": "No que acreditamos"
+      },
+      {
+        "tag": "h2",
+        "text": "nossa vocação"
+      },
+      {
+        "tag": "h2",
+        "text": "é te ajudar"
+      },
+      {
+        "tag": "h2",
+        "text": "na sua"
+      },
+      {
+        "tag": "h2",
+        "text": "vocação"
+      },
+      {
+        "tag": "h6",
+        "text": "Clientes que acreditam em nós"
+      },
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Quem somos | ipiranga-business"
+    ],
+    "metadata": [],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br/quem-somos"
+      }
+    ],
+    "structured_data": [],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "QUEM SOMOS",
+      "Um centro de negócios e desenvolvimento profissional\nlocalizado no bairro do Ipiranga em SP",
+      "A Ipiranga Business tem como objetivo construir soluções para profissionais e empresas, com toda infraestrutura e apoio administrativo necessário para o seu negócio. Trabalhamos com Escritório compartilhado (Coworking), Salas para Palestras, Treinamentos, Cursos, Eventos, Escritório Virtual e Sala Individual.",
+      " ",
+      "No mesmo espaço, oferecemos serviços para o aperfeiçoamento do Desenvolvimento Profissional (coaching, workshops, cursos, treinamentos, palestras, entre outros).\n ",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      "A empresa é liderada por\nViviana Buff Tartuce",
+      "\nViviana é Psicóloga, Instrutora de Programas Comportamentais, Coaching, Palestrante e Professora de Pós Graduação e MBA na área de Gestão de Pessoas e Liderança da FEI, UNIP e Franklin Covey. Formada em Coaching nos EUA com grande vivência em práticas Internacionais de Gestão de Pessoas. Desenvolveu sua carreira executiva na área de Recursos Humanos em empresas de grande porte e multinacionais tais como Companhia do Metrô de São Paulo e Grupo Anglo American entre outras.",
+      "Missão",
+      "A Ipiranga Business realiza com excelência aquilo que é a sua vocação:\n\nCriar espaços de trabalho de alta interatividade e bem estar, geração de parcerias e insights para novos negócios, desenvolvimento pessoal e profissional.",
+      "Compromisso",
+      "Atendimento pautado no respeito às necessidades, individualidade e contexto de cada profissional e organização, com base nos princípios éticos e um processo de diálogo contínuo",
+      "No que acreditamos",
+      "- Na capacidade de desenvolvimento e busca de autonomia das pessoas;",
+      "- Que o trabalho em rede gera insights, ideias e inovações de alto valor agregado;",
+      "- Na necessidade das pessoas de transformar seu potencial em algo produtivo, criativo e socialmente engajado;",
+      "- Que cada situação e pessoa requer uma abordagem única e diferenciada;",
+      "- Que o trabalho pode ser uma fonte de prazer e realização pessoal e profissional",
+      "nossa vocação",
+      "é te ajudar",
+      "na sua",
+      "vocação",
+      "Clientes que acreditam em nós",
+      "Motivação Sistêmica",
+      "Focal Treinamentos Ltda",
+      "De Millus",
+      "FlyTour",
+      "Empresa Qualifica Mais Saúde",
+      "Libbs",
+      "Três corações ",
+      "Curavet",
+      "Status Cursos",
+      "Instituto Lev Chadash",
+      "Agência Lápis de Cor",
+      "Lava Tudo ",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [],
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_2ba4726cf866414586ecf2ae21ab22c7.png/v1/fill/w_96,h_64,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_2ba4726cf866414586ecf2ae21ab22c7.png",
+        "alt": "",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "1920",
+        "height": "1920"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "134px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_17a9a61254fe4ca0aae1de0d4d8d8c54.jpg/v1/fill/w_134,h_216,al_c,lg_1,q_80,enc_avif,quality_auto/fb847d_17a9a61254fe4ca0aae1de0d4d8d8c54.jpg 1x, https://static.wixstatic.com/media/fb847d_17a9a61254fe4ca0aae1de0d4d8d8c54.jpg/v1/fill/w_166,h_267,al_c,lg_1,q_80,enc_avif,quality_auto/fb847d_17a9a61254fe4ca0aae1de0d4d8d8c54.jpg 2x",
+        "id": "img_icyq7xyo_2",
+        "src": "https://static.wixstatic.com/media/fb847d_17a9a61254fe4ca0aae1de0d4d8d8c54.jpg/v1/fill/w_134,h_216,al_c,lg_1,q_80,enc_avif,quality_auto/fb847d_17a9a61254fe4ca0aae1de0d4d8d8c54.jpg",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "134",
+        "height": "216"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "252px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_c9c245eec218404097dea178c875b6b2.png/v1/fill/w_252,h_590,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_c9c245eec218404097dea178c875b6b2.png 1x, https://static.wixstatic.com/media/fb847d_c9c245eec218404097dea178c875b6b2.png/v1/fill/w_504,h_1180,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_c9c245eec218404097dea178c875b6b2.png 2x",
+        "id": "img_comp-inb5a8sl",
+        "src": "https://static.wixstatic.com/media/fb847d_c9c245eec218404097dea178c875b6b2.png/v1/fill/w_252,h_590,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_c9c245eec218404097dea178c875b6b2.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "252",
+        "height": "590"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  },
+  "sala-comercial-privativa": {
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "Sala Comercial Privativa"
+      },
+      {
+        "tag": "h6",
+        "text": "Seu escritório pronto para trabalhar. Sem complicação.\nA 200m do metrô Alto do Ipiranga (Linha-verde)"
+      },
+      {
+        "tag": "h6",
+        "text": "fale conosco"
+      },
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Sala comercial privativa | ipiranga-business"
+    ],
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Tenha um espaço profissional, privativo e mobiliado para atender seus clientes e desenvolver seu negócio. Escolha a sala ideal para você e conte com uma estrutura completa, despesas inclusas e contratos mais flexíveis do que na locação comercial tradicional."
+      }
+    ],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa"
+      }
+    ],
+    "structured_data": [],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "Sala Comercial Privativa",
+      "Seu escritório pronto para trabalhar. Sem complicação.\nA 200m do metrô Alto do Ipiranga (Linha-verde)",
+      "Encontre a sala ideal para o seu negócio​",
+      " ",
+      "​",
+      " ",
+      " Oferecemos salas comerciais de diferentes tamanhos para atender às suas necessidades:",
+      "​",
+      "Sala individual: ideal para profissionais que buscam privacidade e concentração.",
+      "Sala para até 2 pessoas: perfeita para pequenos negócios ou profissionais que trabalham em parceria.",
+      "Sala para até 6 pessoas: ideal para equipes, reuniões e atividades colaborativas.",
+      "Sala para profissionais da saúde: ambiente privativo para psicólogos e outros profissionais que não necessitam de equipamentos especializados.",
+      "​​",
+      "  O que está incluso:",
+      "Sala mobiliada",
+      "Água, luz e Wi-Fi",
+      "Ar-condicionado",
+      "IPTU e condomínio",
+      "Copa, limpeza e manutenção",
+      "Tenha um espaço profissional, privativo e mobiliado para atender seus clientes e desenvolver seu negócio. Escolha a sala ideal para você e conte com uma estrutura completa, despesas inclusas e contratos mais flexíveis do que na locação comercial tradicional.",
+      " ",
+      "fale conosco",
+      "Sua mensagem foi enviada com sucesso! Em breve entraremos em contato.",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "nome-*",
+          "id": "input_comp-m7ypiw3i",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Nome *",
+          "required": "",
+          "aria-invalid": "false",
+          "maxlength": "100",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "email",
+          "id": "input_comp-m7ypiw3u",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "email",
+          "placeholder": "Email *",
+          "required": "",
+          "aria-invalid": "false",
+          "pattern": "^.+@.+\\.[a-zA-Z]{2,63}$",
+          "maxlength": "250",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "phone",
+          "id": "input_comp-m7ypiw3x1",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "tel",
+          "placeholder": "Telefone *",
+          "required": "",
+          "aria-invalid": "false",
+          "maxlength": "50",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "coworking",
+          "id": "input_comp-m7ypiw401",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Coworking",
+          "aria-invalid": "false",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "label",
+        "attrs": {
+          "for": "textarea_comp-m7ypiw43",
+          "class": "P3lL3X wixui-text-box__label"
+        },
+        "text": ""
+      },
+      {
+        "tag": "textarea",
+        "attrs": {
+          "id": "textarea_comp-m7ypiw43",
+          "class": "XXgBXC has-custom-focus wixui-text-box__input",
+          "placeholder": "Mensagem",
+          "aria-required": "false",
+          "aria-invalid": "false"
+        },
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_518f4b39e3644e8395974fc523015cec.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_518f4b39e3644e8395974fc523015cec.jpg",
+        "alt": "",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "1920",
+        "height": "1920"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      },
+      {
+        "id": "96e35284-7dec-4b78-b01f-584bdf54dc7a",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "0",
+        "src": "https://static.wixstatic.com/media/bf5a2b_680011b5ce6046b6a38560169bf68053~mv2.jpg/v1/fit/w_301,h_183,q_90,enc_avif,quality_auto/bf5a2b_680011b5ce6046b6a38560169bf68053~mv2.jpg",
+        "alt": "",
+        "loading": "eager",
+        "style": "width:301px;height:183px"
+      },
+      {
+        "id": "f42d2da8-a914-48ca-936b-cb4d4cd5664a",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "1",
+        "src": "https://static.wixstatic.com/media/bf5a2b_1b7fd91fb300430193f1a562e9816388~mv2.jpeg/v1/fit/w_329,h_183,q_90,enc_avif,quality_auto/bf5a2b_1b7fd91fb300430193f1a562e9816388~mv2.jpeg",
+        "alt": "",
+        "loading": "eager",
+        "style": "width:329px;height:183px"
+      },
+      {
+        "id": "30aa4f88-286e-4e62-a6e0-e36f6f50f9ca",
+        "class": "gallery-item-visible gallery-item gallery-item-preloaded",
+        "data-hook": "gallery-item-image-img",
+        "data-idx": "2",
+        "src": "https://static.wixstatic.com/media/bf5a2b_4caa0aa6e12a483b98a9f4a750438aa5~mv2.jpeg/v1/fit/w_407,h_183,q_90,enc_avif,quality_auto/bf5a2b_4caa0aa6e12a483b98a9f4a750438aa5~mv2.jpeg",
+        "alt": "",
+        "loading": "eager",
+        "style": "width:407px;height:183px"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_a015561776e44b0f9497ad1c4800e67b.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_a015561776e44b0f9497ad1c4800e67b.jpg",
+        "alt": "Escritório Individual",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/bf5a2b_6298c1168eab4b41839df4abd9662449~mv2_d_4592_2576_s_4_2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bf5a2b_6298c1168eab4b41839df4abd9662449~mv2_d_4592_2576_s_4_2.jpg",
+        "alt": "DSC00042",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/bf5a2b_d7c25ad5f5964b2b9feb9cd069018797~mv2_d_4592_2576_s_4_2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bf5a2b_d7c25ad5f5964b2b9feb9cd069018797~mv2_d_4592_2576_s_4_2.jpg",
+        "alt": "DSC00066",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_92fc62d9e596497dab913badf6642c93.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_92fc62d9e596497dab913badf6642c93.jpg",
+        "alt": "Coffee",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/bf5a2b_26d5296a258941979d2767441d36ae0d~mv2_d_4592_2576_s_4_2.jpg/v1/fill/w_147,h_82,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bf5a2b_26d5296a258941979d2767441d36ae0d~mv2_d_4592_2576_s_4_2.jpg",
+        "alt": "DSC00053",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_126,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 1x, https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_238,h_227,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 2x",
+        "id": "img_comp-m7ypiw5x",
+        "src": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_126,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "120"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_126,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png 1x, https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_238,h_238,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png 2x",
+        "id": "img_comp-m7ypiw6b5",
+        "src": "https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_126,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "126"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_126,h_122,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 1x, https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_238,h_230,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 2x",
+        "id": "img_comp-m7ypiw6o2",
+        "src": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_126,h_122,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "122"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "aria-current": "page",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "Consulte disponibilidade e valores",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "es7p0F wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Consulte disponibilidade e valores"
+        }
+      },
+      {
+        "text": "Fale conosco",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "es7p0F wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Fale conosco"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "ESCRITÓRIO VIRTUAL",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "ESCRITÓRIO VIRTUAL"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "LOCAÇÃO DE SALAS",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "LOCAÇÃO DE SALAS"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "IPIRANGA TRAINING",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "IPIRANGA TRAINING"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  },
+  "salas-de-reuniao": {
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "SALAS DE REUNIÃO"
+      },
+      {
+        "tag": "h6",
+        "text": "Toda a infraestrutura e comodidade para suas reuniões\nA 200m do metrô Alto do Ipiranga (Linha-verde)"
+      },
+      {
+        "tag": "h6",
+        "text": "fale conosco"
+      },
+      {
+        "tag": "h6",
+        "text": "Clientes que acreditam em nós"
+      },
+      {
+        "tag": "h6",
+        "text": "Depoimentos"
+      },
+      {
+        "tag": "h6",
+        "text": "Veja também"
+      },
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Salas de reunião | Ipiranga Business"
+    ],
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Oferecemos salas de reunião modernas, confortáveis e equipadas para tornar seus encontros mais produtivos. Seja para reuniões corporativas, apresentações, treinamentos, entrevistas ou encontros com clientes, temos o espaço ideal para você e sua equipe."
+      }
+    ],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao"
+      }
+    ],
+    "structured_data": [],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "SALAS DE REUNIÃO",
+      "Toda a infraestrutura e comodidade para suas reuniões\nA 200m do metrô Alto do Ipiranga (Linha-verde)",
+      "Oferecemos salas de reunião modernas, confortáveis e equipadas para tornar seus encontros mais produtivos. Seja para reuniões corporativas, apresentações, treinamentos, entrevistas ou encontros com clientes, temos o espaço ideal para você e sua equipe.",
+      "​",
+      "Estrutura e conforto para seus melhores resultados",
+      "Nossas salas foram pensadas para proporcionar praticidade, profissionalismo e conforto em cada detalhe. Conte com ambientes preparados para receber você e seus convidados, com a infraestrutura necessária para que suas reuniões aconteçam com tranquilidade e eficiência.",
+      "​",
+      "Flexibilidade para atender às suas necessidades",
+      "Alugue sua sala pelo tempo que precisar, com praticidade e flexibilidade. Oferecemos soluções para profissionais autônomos, empresas, empreendedores e equipes que buscam um ambiente profissional sem os custos de manter um espaço próprio.",
+      "​",
+      "Transforme suas reuniões em oportunidades",
+      "Mais do que um espaço, oferecemos o ambiente ideal para conectar pessoas, compartilhar ideias e fechar grandes negócios.",
+      "​",
+      "Reserve sua sala de reunião e descubra como o ambiente certo pode fazer a diferença.",
+      "Entre em contato conosco e encontre a solução ideal para o seu próximo encontro.",
+      "Projetor",
+      "Tela",
+      "TV's",
+      "Flip Charts",
+      "Internet",
+      "WiFi Livre",
+      "Espaço para\nCoffee-Break",
+      "fale conosco",
+      "Sua mensagem foi enviada com sucesso! Em breve entraremos em contato.",
+      "Clientes que acreditam em nós",
+      "Motivação Sistêmica",
+      "Focal Treinamentos Ltda",
+      "De Millus",
+      "FlyTour",
+      "Empresa Qualifica Mais Saúde",
+      "Espaço da Libras",
+      "Suprema Assessoria",
+      "Três Corações ",
+      "Libbs ",
+      "Curavet",
+      "Status Cursos",
+      "Instituto Lev Chadash",
+      "Agência Lápis de Cor",
+      "Central da Saúde",
+      "Instituto Brasileiro de Treinamento e Pesquisa em Lentes de Contato",
+      "Lava Tudo ",
+      "Depoimentos",
+      "\"As pessoas aqui acolhem com muito carinho e se preocupam muito com os detalhes, o lugar é lindo. Vale a pena o investimento na estrutura e ficamos muito felizes de poder estar aqui nesta parceria. Nosso trabalho exige um lugar onde as pessoas possam se concentrar e aqui encontramos essa possibilidade (...) também temos a facilidade de termos o metrô do lado. São por essas características que recomendamos o lugar.\" Motivação Sistêmica",
+      "Veja também",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "nome-*",
+          "id": "input_comp-mvmvi0wd",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Nome *",
+          "required": "",
+          "aria-invalid": "false",
+          "maxlength": "100",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "email",
+          "id": "input_comp-mvmvi0wz",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "email",
+          "placeholder": "Email *",
+          "required": "",
+          "aria-invalid": "false",
+          "pattern": "^.+@.+\\.[a-zA-Z]{2,63}$",
+          "maxlength": "250",
+          "autocomplete": "off",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "phone",
+          "id": "input_comp-mvmvi0x02",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "tel",
+          "placeholder": "Telefone",
+          "aria-invalid": "false",
+          "maxlength": "50",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "input",
+        "attrs": {
+          "name": "locação-de salas",
+          "id": "input_comp-mvmvi0x15",
+          "class": "nbaJII has-custom-focus wixui-text-input__input",
+          "type": "text",
+          "placeholder": "Locação de Salas",
+          "aria-invalid": "false",
+          "autocomplete": "off",
+          "aria-required": "false",
+          "value": ""
+        },
+        "text": ""
+      },
+      {
+        "tag": "label",
+        "attrs": {
+          "for": "textarea_comp-mvmvi0x31",
+          "class": "P3lL3X wixui-text-box__label"
+        },
+        "text": ""
+      },
+      {
+        "tag": "textarea",
+        "attrs": {
+          "id": "textarea_comp-mvmvi0x31",
+          "class": "XXgBXC has-custom-focus wixui-text-box__input",
+          "placeholder": "Mensagem",
+          "aria-required": "false",
+          "aria-invalid": "false"
+        },
+        "text": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_2537513613fb4a35a5654bf17ed6ffe7.jpg/v1/fill/w_288,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_2537513613fb4a35a5654bf17ed6ffe7.jpg",
+        "alt": "",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "1920",
+        "height": "1920"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_088cdc5961bd4fa18ac410813aeb7394.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_088cdc5961bd4fa18ac410813aeb7394.png 1x, https://static.wixstatic.com/media/fb847d_088cdc5961bd4fa18ac410813aeb7394.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_088cdc5961bd4fa18ac410813aeb7394.png 2x",
+        "id": "img_comp-mvmvi0ux1",
+        "src": "https://static.wixstatic.com/media/fb847d_088cdc5961bd4fa18ac410813aeb7394.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_088cdc5961bd4fa18ac410813aeb7394.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png 1x, https://static.wixstatic.com/media/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png 2x",
+        "id": "img_comp-mvmvi0v93",
+        "src": "https://static.wixstatic.com/media/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_93c5cea89f274cccb15dd79d20ced9a9.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_b6ce83fea68e4ab6b98754aad5472409.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_b6ce83fea68e4ab6b98754aad5472409.png 1x, https://static.wixstatic.com/media/fb847d_b6ce83fea68e4ab6b98754aad5472409.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_b6ce83fea68e4ab6b98754aad5472409.png 2x",
+        "id": "img_comp-mvmvi0vd3",
+        "src": "https://static.wixstatic.com/media/fb847d_b6ce83fea68e4ab6b98754aad5472409.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_b6ce83fea68e4ab6b98754aad5472409.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "95px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_9875490efabb43ec819eb8eedd321429.png/v1/fill/w_95,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_9875490efabb43ec819eb8eedd321429.png 1x, https://static.wixstatic.com/media/fb847d_9875490efabb43ec819eb8eedd321429.png/v1/fill/w_159,h_161,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_9875490efabb43ec819eb8eedd321429.png 2x",
+        "id": "img_comp-mvmvi0vh1",
+        "src": "https://static.wixstatic.com/media/fb847d_9875490efabb43ec819eb8eedd321429.png/v1/fill/w_95,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_9875490efabb43ec819eb8eedd321429.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "95",
+        "height": "96"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png 1x, https://static.wixstatic.com/media/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png 2x",
+        "id": "img_comp-mvmvi0vl1",
+        "src": "https://static.wixstatic.com/media/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_b00736eb7ac248ff8b22078ae6b3af5a.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_e6df7970dd234eeeb073927d9d057751.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e6df7970dd234eeeb073927d9d057751.png 1x, https://static.wixstatic.com/media/fb847d_e6df7970dd234eeeb073927d9d057751.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_e6df7970dd234eeeb073927d9d057751.png 2x",
+        "id": "img_comp-mvmvi0vp1",
+        "src": "https://static.wixstatic.com/media/fb847d_e6df7970dd234eeeb073927d9d057751.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e6df7970dd234eeeb073927d9d057751.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "96px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png 1x, https://static.wixstatic.com/media/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png/v1/fill/w_160,h_153,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png 2x",
+        "id": "img_comp-mvmvi0vs4",
+        "src": "https://static.wixstatic.com/media/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png/v1/fill/w_96,h_92,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_5b97a21b2e2445c79150c63ef31b4c9d.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "96",
+        "height": "92"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_126,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png 1x, https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_238,h_227,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png 2x",
+        "id": "img_comp-mvmvi0xn4",
+        "src": "https://static.wixstatic.com/media/fb847d_7203656026264eaa86f1c168a6d1befd.png/v1/fill/w_126,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_7203656026264eaa86f1c168a6d1befd.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "120"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_126,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 1x, https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_238,h_238,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 2x",
+        "id": "img_comp-mvmvi0xt",
+        "src": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_126,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "126"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "126px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_126,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 1x, https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_238,h_234,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 2x",
+        "id": "img_comp-mvmvi0xv",
+        "src": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_126,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "126",
+        "height": "124"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "aria-current": "page",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "Consulte disponibilidade e valores",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Consulte disponibilidade e valores"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "SALA COMERCIAL PRIVATIVA",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "SALA COMERCIAL PRIVATIVA"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "AUDITÓRIO",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "AUDITÓRIO"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "ESCRITÓRIO VIRTUAL",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "ESCRITÓRIO VIRTUAL"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  },
+  "servicos": {
+    "headings": [
+      {
+        "tag": "h2",
+        "text": "nossos serviços"
+      },
+      {
+        "tag": "h6",
+        "text": "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos"
+      },
+      {
+        "tag": "h6",
+        "text": " "
+      },
+      {
+        "tag": "h6",
+        "text": "© 2016 Ipiranga Business"
+      },
+      {
+        "tag": "h6",
+        "text": "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br"
+      },
+      {
+        "tag": "h6",
+        "text": "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+      }
+    ],
+    "title": [
+      "Serviços | ipiranga-business"
+    ],
+    "metadata": [],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.ipirangabusinesscenter.com.br/servicos"
+      }
+    ],
+    "structured_data": [],
+    "text": [
+      "Home",
+      "Quem somos",
+      "Serviços",
+      "Ipiranga Training",
+      "Contato",
+      "More",
+      "(11) 96039-2977",
+      "nossos serviços",
+      "Passar uma boa imagem é fundamental nos negócios e o endereço certo pode ser o elemento chave para o seu sucesso.Esta solução é ideal para profissionais que não precisam estar em um escritório fixo, mas sentem a necessidade de um endereço comercial.",
+      "Tenha um espaço profissional, privativo e mobiliado para atender seus clientes e desenvolver seu negócio. Escolha a sala ideal para você e conte com uma estrutura completa, despesas inclusas e contratos mais flexíveis do que na locação comercial tradicional.",
+      "Agora no Ipiranga, você encontra serviços, para alavancar ainda mais o seu Talento e de sua Equipe. Treinamento, Palestras, Cursos, Workshops, entre outros, desenvolvemos a programação conforme a necessidade da sua empresa.",
+      "Estamos há mais de 6 anos no mercado de soluções corporativas, de desenvolvimento humano e profissional, atuando em empresas de médio e grande porte em diversos segmentos",
+      " ",
+      "© 2016 Ipiranga Business",
+      "WhatsApp\n(11) 96039-2977\nOu envie um e-mail\ncontato@ipirangabusinesscenter.com.br",
+      "Rua Salvador Simões 918\n\nCEP: 04276-000\nSão Paulo/SP"
+    ],
+    "inputs": [],
+    "images": [
+      {
+        "src": "https://static.wixstatic.com/media/fb847d_2ba4726cf866414586ecf2ae21ab22c7.png/v1/fill/w_96,h_64,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fb847d_2ba4726cf866414586ecf2ae21ab22c7.png",
+        "alt": "",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "1920",
+        "height": "1920"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "300px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 1x, https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_374,h_45,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png 2x",
+        "id": "img_comp-imv8tgnk",
+        "src": "https://static.wixstatic.com/media/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png/v1/fill/w_300,h_36,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_a2300cc9dca04cfb84a50424dc179b1b.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "300",
+        "height": "36"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "45px",
+        "srcset": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 1x, https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_90,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png 2x",
+        "id": "img_comp-indjcm3a",
+        "src": "https://static.wixstatic.com/media/bf5a2b_d10e4018e01d43d5abadee04890e1502~mv2.png/v1/fill/w_45,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/whatsapp_edited.png",
+        "alt": "whatsapp_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "45",
+        "height": "52"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "153px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_153,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 1x, https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_238,h_218,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png 2x",
+        "id": "img_comp-io0pwr6z1",
+        "src": "https://static.wixstatic.com/media/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png/v1/fill/w_153,h_140,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_8fe5f9083a2a47a28da5527ae976e53d.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "153",
+        "height": "140"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "152px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_152,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png 1x, https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_238,h_232,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png 2x",
+        "id": "img_comp-io0pwr7f",
+        "src": "https://static.wixstatic.com/media/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png/v1/fill/w_152,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_07b57bbbfb0c49718fffd3f8a744756c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "152",
+        "height": "148"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "153px",
+        "srcset": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_153,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 1x, https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_238,h_224,al_c,lg_1,q_85,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png 2x",
+        "id": "img_comp-io0pwr7t1",
+        "src": "https://static.wixstatic.com/media/fb847d_e1cf251d82b941d497793d43750c445c.png/v1/fill/w_153,h_144,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/fb847d_e1cf251d82b941d497793d43750c445c.png",
+        "alt": "",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "153",
+        "height": "144"
+      }
+    ],
+    "links": [
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "Home",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Quem somos",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/quem-somos",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "Serviços",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true",
+          "aria-current": "page"
+        }
+      },
+      {
+        "text": "Sala comercial privativa",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Salas de reunião",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/salas-de-reuniao",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Locação de auditório",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Escritório Virtual",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Ipiranga Training",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "target": "_self",
+          "class": "qMvpu5",
+          "aria-expanded": "false",
+          "aria-haspopup": "true"
+        }
+      },
+      {
+        "text": "Coaching",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/coaching",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Consultoria",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/consultoria",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Cursos & Palestras",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/cursos-palestras",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Serviços de RH",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/servicos-de-rh",
+          "target": "_self",
+          "class": "",
+          "tabindex": "-1"
+        }
+      },
+      {
+        "text": "Contato",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/contato",
+          "target": "_self",
+          "class": "qMvpu5"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://api.whatsapp.com/send/?phone=5511960392977&text&type=phone_number&app_absent=0",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "ESCRITÓRIO VIRTUAL",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "ESCRITÓRIO VIRTUAL"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/escritorio-virtual",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "SALA COMERCIAL PRIVATIVA",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "SALA COMERCIAL PRIVATIVA"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+          "target": "_self",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "apPOZK"
+        }
+      },
+      {
+        "text": "IPIRANGA TRAINING",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "IPIRANGA TRAINING"
+        }
+      },
+      {
+        "text": "Saiba mais",
+        "attrs": {
+          "data-testid": "linkElement",
+          "href": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+          "class": "twJknM wixui-button ZhVEJq",
+          "aria-disabled": "false",
+          "aria-label": "Saiba mais"
+        }
+      },
+      {
+        "text": "(11) 96039-2977",
+        "attrs": {
+          "href": "https://wa.me/5511960392977",
+          "target": "_blank",
+          "rel": "noreferrer noopener",
+          "class": "wixui-rich-text__text"
+        }
+      },
+      {
+        "text": "contato@ipirangabusinesscenter.com.br",
+        "attrs": {
+          "data-auto-recognition": "true",
+          "href": "mailto:contato@ipirangabusinesscenter.com.br",
+          "class": "wixui-rich-text__text"
+        }
+      }
+    ]
+  }
+}

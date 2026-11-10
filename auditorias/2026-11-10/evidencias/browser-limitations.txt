@@ -1,0 +1,6 @@
+2026-11-10, ambiente macOS local.
+Playwright Chromium headless 1254: launch failed before navigation.
+FATAL base/apple/mach_port_rendezvous_mac.cc:159: bootstrap_check_in org.chromium.Chromium.MachPortRendezvousServer: Permission denied (1100).
+Fallback cua.createBrowserTab iab: The browser access host is unavailable.
+Nenhuma captura produzida. Viewports planejados, nao executados: desktop 1440x900; mobile 390x844.
+RTK.md nao encontrado na raiz do projeto nem nos diretorios ancestrais consultados.

@@ -1,0 +1,62 @@
+[
+  {
+    "path": "quem-somos",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/quem-somos 422743",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "servicos",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/servicos 419686",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "sala-comercial-privativa",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa 687823",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "salas-de-reuniao",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/salas-de-reuniao 501483",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "locacao-de-sala-para-treinamento",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/locacao-de-sala-para-treinamento 499353",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "escritorio-virtual",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/escritorio-virtual 480566",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "ipiranga-training",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/ipiranga-training 424464",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "contato",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/contato 441982",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "robots.txt",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/robots.txt 507",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "path": "sitemap.xml",
+    "result": "200 https://www.ipirangabusinesscenter.com.br/sitemap.xml 261",
+    "error": "",
+    "exit": 0
+  }
+]

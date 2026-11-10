@@ -1,0 +1,31 @@
+{
+  "measuredAt": "2026-11-10T17:07:24.808Z",
+  "scope": "Tamanhos de arquivos; não são métricas de navegação ou Core Web Vitals",
+  "originalHeroBytes": 188674,
+  "heroVariants": [
+    {
+      "width": 320,
+      "bytes": 8796,
+      "reductionPercent": 95.3
+    },
+    {
+      "width": 640,
+      "bytes": 23262,
+      "reductionPercent": 87.7
+    },
+    {
+      "width": 960,
+      "bytes": 41048,
+      "reductionPercent": 78.2
+    },
+    {
+      "width": 1440,
+      "bytes": 80166,
+      "reductionPercent": 57.5
+    }
+  ],
+  "photos": 18,
+  "variants": 66,
+  "cssBytes": 9854,
+  "javascriptBytes": 1467
+}

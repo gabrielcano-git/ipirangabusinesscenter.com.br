@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.ipirangabusinesscenter.com.br/sitemap.xml

@@ -1,0 +1,27 @@
+{
+  "name": "ipirangabusinesscenter.com.br",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/optimize-images.cjs && node scripts/build.cjs && sass src/styles/site.scss /private/tmp/ibc-site.css --no-source-map && tailwindcss -c tailwind.config.cjs -i /private/tmp/ibc-site.css -o dist/assets/site.css --minify && node scripts/inline-css.cjs",
+    "start": "node scripts/serve.cjs",
+    "validate": "node scripts/validate.cjs",
+    "validate:images": "node scripts/validate-images.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/node": "^26.6.6",
+    "sass": "^1.108.1",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^3.4.19"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.3.1",
+    "@fortawesome/free-solid-svg-icons": "^7.3.1"
+  }
+}

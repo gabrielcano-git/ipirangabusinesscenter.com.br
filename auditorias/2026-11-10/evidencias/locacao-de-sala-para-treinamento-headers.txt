@@ -1,0 +1,26 @@
+HTTP/2 103 
+link: <https://static.parastorage.com/>; crossorigin; rel=preconnect, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; crossorigin; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; crossorigin; rel=preconnect
+
+HTTP/2 200 
+date: Tue, 10 Nov 2026 15:00:26 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: a585ed41fd0ec02b-GRU
+cf-cache-status: HIT
+age: 422347
+cache-control: public,max-age=0,must-revalidate
+x-seen-by: bQAXdg/f3pWGCb3VI6q72A==,
+content-language: en-US
+etag: W/"c459ba131ef5f43ac9d5f80b86179ba2"
+link: <https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin
+server: cloudflare
+x-wix-request-id: 1794322826.563423482523796092
+strict-transport-security: max-age=31556952
+vary: Accept-Encoding
+server-timing: cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare
+x-content-type-options: nosniff
+x-served-by: GRU
+set-cookie: ssr-caching=cache#desc=miss#varnish=miss_hit#dc#desc=cloudflare; Max-Age=20
+set-cookie: sec-fetch-unsupported=1; Path=/; Secure; SameSite=Lax;
+set-cookie: __cf_bm=clLhLBwIiFMFKcYIoqU3jz0tZg8shKWgwxQjaj_B5aA-1794322826.5553162-1.0.1.1-cFRYXInX3MOmYx20N5j6Y.Ne2aupw.CFybdRUglJNBaSfZCf9k.d69gz_tza.9t6R49GIMt_3KlRySzjkdJTu1UMT.2l1kiVoH5YK_uhBNy8T95Ok_cRuSaADN5z0kZ.; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=www.ipirangabusinesscenter.com.br; Expires=Tue, 10 Nov 2026 15:30:26 GMT
+alt-svc: h3=":443"; ma=86400
+

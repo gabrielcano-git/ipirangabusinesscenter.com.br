@@ -1,0 +1,71 @@
+[
+  {
+    "url": "http://127.0.0.1:4183/escritorio-virtual",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/fotos",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/servicos",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/contato",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/consultoria",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/rooms-rates",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/coaching",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/servicos-de-rh",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/ipiranga-training",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/quem-somos",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/sala-comercial-privativa",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/p-gina-em-tela-cheia",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/locacao-de-sala-para-treinamento",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/salas-de-reuniao",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/cursos-palestras",
+    "status": 200
+  },
+  {
+    "url": "http://127.0.0.1:4183/assets/optimized/f02a459b12c27987-640.webp",
+    "status": 200,
+    "type": "image/webp"
+  }
+]

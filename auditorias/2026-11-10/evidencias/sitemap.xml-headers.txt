@@ -1,0 +1,22 @@
+HTTP/2 200 
+date: Tue, 10 Nov 2026 15:00:26 GMT
+content-type: text/xml; charset=utf-8
+content-length: 261
+cf-ray: a585ed441aa22df6-GRU
+cf-cache-status: UPDATING
+accept-ranges: bytes
+age: 779315
+cache-control: public,max-age=0,must-revalidate
+content-language: en
+etag: W/"105-2d+G55WdmMKh2PpGO0CCoY8cqQE"
+server: cloudflare
+strict-transport-security: max-age=31556952
+vary: Accept-Encoding
+server-timing: cache;desc=hit, varnish;desc=hit_hit_stale, dc;desc=cloudflare
+x-content-type-options: nosniff
+x-served-by: GRU
+x-wix-request-id: 1794322826.910217431445155551
+set-cookie: __cf_bm=sRzNYFzOWBNqsU7Vvv35dWrAb.M1qHlaa20C5mu6a68-1794322826.9008725-1.0.1.1-UXplyYuyDSoKOiVjh08KXpcpaqisqcUP5UGFKMtdrerGGidQpVJE9jBQpNuCHO3AlTJ8eOu_NEmvCYl5KhrRk70KYJsztTUvPxXLfmjkmXsla94yXP0rTc1PNp.BVAxg; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=www.ipirangabusinesscenter.com.br; Expires=Tue, 10 Nov 2026 15:30:26 GMT
+x-seen-by: bQAXdg/f3pWGCb3VI6q72A==,
+alt-svc: h3=":443"; ma=86400
+
