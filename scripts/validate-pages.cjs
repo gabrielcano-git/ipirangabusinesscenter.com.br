@@ -1,7 +1,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const assert = require('node:assert/strict');
-const routes = Object.keys(require('../src/data/pages.json'));
+const routes = [...Object.keys(require('../src/data/pages.json')), 'relatorios'];
 const base = (process.env.PAGES_BASE_PATH || '').replace(/\/+$/, '');
 let checked = 0;
 function check(value) {

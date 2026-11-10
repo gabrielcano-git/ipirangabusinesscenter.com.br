@@ -1,0 +1,23 @@
+[
+  {
+    "pdf": "comparativo-antigo-novo-2026-11-10.pdf",
+    "pages": 12,
+    "images": 10,
+    "linkAnnotations": 31,
+    "bytes": 2730825
+  },
+  {
+    "pdf": "auditoria-site-antigo-2026-11-10.pdf",
+    "pages": 6,
+    "images": 0,
+    "linkAnnotations": 31,
+    "bytes": 94552
+  },
+  {
+    "pdf": "relatorio-pagespeed-2026-11-10.pdf",
+    "pages": 2,
+    "images": 0,
+    "linkAnnotations": 11,
+    "bytes": 74650
+  }
+]

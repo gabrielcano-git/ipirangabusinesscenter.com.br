@@ -1,0 +1,20 @@
+[
+  {
+    "pdf": "auditoria-site-antigo-2026-11-10.pdf",
+    "pages": 6,
+    "bytes": 94552,
+    "source": "auditorias/2026-11-10/relatorio-auditoria-2026-11-10.md"
+  },
+  {
+    "pdf": "relatorio-pagespeed-2026-11-10.pdf",
+    "pages": 2,
+    "bytes": 74650,
+    "source": "auditorias/2026-11-10/relatorio-pagespeed-2026-11-10.md"
+  },
+  {
+    "pdf": "comparativo-antigo-novo-2026-11-10.pdf",
+    "pages": 12,
+    "bytes": 2730825,
+    "source": "comparativos/2026-11-10/comparativo-antigo-novo.md"
+  }
+]

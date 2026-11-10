@@ -55,3 +55,19 @@ PAGES_BASE_PATH=/ipirangabusinesscenter.com.br npm run validate:pages
 ```
 
 Execute `npm run build` novamente para restaurar a versão local sem prefixo. O build usa a pasta temporária do sistema e funciona em macOS e Linux. Antes de enviar todo o histórico a um novo repositório público, confira o conteúdo versionado: auditorias e evidências não entram no site, mas podem estar no histórico Git enviado.
+
+## Relatórios em PDF no Pages
+
+A rota **`/relatorios/`**, acessível pelo link “Relatórios do projeto” no rodapé, oferece os três documentos em PDF, com abertura direta, download e pré-visualização opcional no navegador:
+
+- Auditoria do site antigo;
+- Relatório PageSpeed;
+- Comparativo do site antigo com a nova versão, com capturas reais.
+
+Na publicação de projeto, a área fica em `https://gabrielcano-git.github.io/ipirangabusinesscenter.com.br/relatorios/`. Esse endereço só passa a oferecer os arquivos após o deploy desta alteração.
+
+Os documentos são registrados em `src/data/reports.json`. As versões finais ficam em `output/pdf/`, com metadados em `output/pdf/manifest.json`. O build copia somente os PDFs registrados para `dist/relatorios/pdf/` e gera o índice; não publica a árvore completa de auditorias, evidências ou arquivos de trabalho. As referências de evidência dentro dos PDFs apontam para os arquivos no repositório GitHub.
+
+`npm run validate` e `npm run validate:pages` conferem os PDFs, sua assinatura, a integridade das cópias, os links e a entrada pelo rodapé. O workflow existente já executa esses comandos. A publicação não exige Python ou instalação de bibliotecas PDF, porque usa os documentos finais versionados.
+
+Para atualizar o conteúdo dos PDFs, use Python com as dependências de `scripts/requirements-pdf.txt` e execute `python scripts/generate-report-pdfs.py`. O script de autoria usa Arial instalada no macOS; em outro sistema, configure `REPORT_FONT_DIR` com as fontes indicadas no script. Depois confira as páginas renderizadas e execute `npm run build`, `npm run validate` e as verificações de Pages antes de publicar.

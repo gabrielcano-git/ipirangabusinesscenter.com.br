@@ -1,5 +1,5 @@
 {
-  "measuredAt": "2026-11-10T17:26:36.165Z",
+  "measuredAt": "2026-11-10T18:18:20.048Z",
   "scope": "Tamanhos de arquivos; não são métricas de navegação ou Core Web Vitals",
   "originalHeroBytes": 188674,
   "heroVariants": [
@@ -26,6 +26,6 @@
   ],
   "photos": 18,
   "variants": 66,
-  "cssBytes": 9854,
+  "cssBytes": 10993,
   "javascriptBytes": 1467
 }

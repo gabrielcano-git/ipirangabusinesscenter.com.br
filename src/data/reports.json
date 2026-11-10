@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "auditoria-site-antigo",
+    "title": "Auditoria do site antigo",
+    "description": "Diagnóstico original de conteúdo, acessibilidade e SEO, com os achados e as limitações da coleta.",
+    "date": "10/11/2026",
+    "source": "auditorias/2026-11-10/relatorio-auditoria-2026-11-10.md",
+    "pdf": "auditoria-site-antigo-2026-11-10.pdf"
+  },
+  {
+    "slug": "pagespeed",
+    "title": "Relatório PageSpeed",
+    "description": "Registro das consultas mobile e desktop e do bloqueio de cota. Não contém notas ou métricas de desempenho concluídas.",
+    "date": "10/11/2026",
+    "source": "auditorias/2026-11-10/relatorio-pagespeed-2026-11-10.md",
+    "pdf": "relatorio-pagespeed-2026-11-10.pdf"
+  },
+  {
+    "slug": "comparativo-antigo-novo",
+    "title": "Comparativo: site antigo e novo",
+    "description": "Avaliação da versão publicada, com melhorias comprovadas, pendências, limites de medição e capturas reais lado a lado.",
+    "date": "10/11/2026",
+    "source": "comparativos/2026-11-10/comparativo-antigo-novo.md",
+    "pdf": "comparativo-antigo-novo-2026-11-10.pdf"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/relatorios/",
+    "status": 200,
+    "type": "text/html; charset=utf-8",
+    "bytes": 15296
+  },
+  {
+    "path": "/relatorios/pdf/auditoria-site-antigo-2026-11-10.pdf",
+    "status": 200,
+    "type": "application/pdf",
+    "bytes": 94552
+  },
+  {
+    "path": "/relatorios/pdf/relatorio-pagespeed-2026-11-10.pdf",
+    "status": 200,
+    "type": "application/pdf",
+    "bytes": 74650
+  },
+  {
+    "path": "/relatorios/pdf/comparativo-antigo-novo-2026-11-10.pdf",
+    "status": 200,
+    "type": "application/pdf",
+    "bytes": 2730825
+  }
+]

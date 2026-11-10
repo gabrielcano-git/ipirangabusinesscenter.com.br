@@ -11,6 +11,7 @@ function run(file, args = []) {
 try {
   run('scripts/optimize-images.cjs');
   run('scripts/build.cjs');
+  run('scripts/build-reports.cjs');
   const css = path.join(temporary, 'site.css');
   run('node_modules/sass/sass.js', ['src/styles/site.scss', css, '--no-source-map']);
   run('node_modules/tailwindcss/lib/cli.js', ['-c', 'tailwind.config.cjs', '-i', css, '-o', 'dist/assets/site.css', '--minify']);
