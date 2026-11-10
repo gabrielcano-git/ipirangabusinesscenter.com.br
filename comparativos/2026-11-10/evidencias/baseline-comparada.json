@@ -1,0 +1,82 @@
+[
+  {
+    "route": "cursos-palestras",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "salas-de-reuniao",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "locacao-de-sala-para-treinamento",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "escritorio-virtual",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "sala-comercial-privativa",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "contato",
+    "baselineExists": true,
+    "identicalBytes": false
+  },
+  {
+    "route": "ipiranga-training",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "home",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "servicos-de-rh",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "p-gina-em-tela-cheia",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "rooms-rates",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "consultoria",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "servicos",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "coaching",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "quem-somos",
+    "baselineExists": true,
+    "identicalBytes": true
+  },
+  {
+    "route": "fotos",
+    "baselineExists": true,
+    "identicalBytes": true
+  }
+]

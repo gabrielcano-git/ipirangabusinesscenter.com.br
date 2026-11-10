@@ -1,0 +1,68 @@
+[
+  {
+    "kind": "antigo",
+    "page": "ipiranga-training",
+    "width": 1440,
+    "height": 3000,
+    "url": "https://www.ipirangabusinesscenter.com.br/ipiranga-training",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipirangabusinesscenter.com.br%2Fipiranga-training?vpw=1440&vph=3000&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  },
+  {
+    "kind": "antigo",
+    "page": "contato",
+    "width": 390,
+    "height": 3000,
+    "url": "https://www.ipirangabusinesscenter.com.br/contato",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipirangabusinesscenter.com.br%2Fcontato?vpw=390&vph=3000&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  },
+  {
+    "kind": "antigo",
+    "page": "sala-comercial-privativa",
+    "width": 1440,
+    "height": 3000,
+    "url": "https://www.ipirangabusinesscenter.com.br/sala-comercial-privativa",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipirangabusinesscenter.com.br%2Fsala-comercial-privativa?vpw=1440&vph=3000&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  },
+  {
+    "kind": "novo",
+    "page": "ipiranga-training",
+    "width": 1440,
+    "height": 3000,
+    "url": "https://gabrielcano-git.github.io/ipirangabusinesscenter.com.br/ipiranga-training/",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgabrielcano-git.github.io%2Fipirangabusinesscenter.com.br%2Fipiranga-training%2F?vpw=1440&vph=3000&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  },
+  {
+    "kind": "novo",
+    "page": "contato",
+    "width": 390,
+    "height": 3000,
+    "url": "https://gabrielcano-git.github.io/ipirangabusinesscenter.com.br/contato/",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgabrielcano-git.github.io%2Fipirangabusinesscenter.com.br%2Fcontato%2F?vpw=390&vph=3000&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  },
+  {
+    "kind": "novo",
+    "page": "sala-comercial-privativa",
+    "width": 1440,
+    "height": 3000,
+    "url": "https://gabrielcano-git.github.io/ipirangabusinesscenter.com.br/sala-comercial-privativa/",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgabrielcano-git.github.io%2Fipirangabusinesscenter.com.br%2Fsala-comercial-privativa%2F?vpw=1440&vph=3000&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  }
+]

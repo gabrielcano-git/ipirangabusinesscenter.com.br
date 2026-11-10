@@ -1,0 +1,91 @@
+[
+  {
+    "url": "https://www.ipirangabusinesscenter.com.br/robots.txt",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 10 Nov 2026 17:35:54 GMT",
+      "Content-Type": "text/plain; charset=utf-8",
+      "Content-Length": "507",
+      "Connection": "close",
+      "CF-Ray": "a586d0fc0dda6240-GRU",
+      "CF-Cache-Status": "HIT",
+      "Accept-Ranges": "bytes",
+      "Age": "10108",
+      "Cache-Control": "public,max-age=0,must-revalidate",
+      "ETag": "W/\"1fb-QXjicRsQ51EwWhzklcmAEWyeRzk\"",
+      "Server": "cloudflare",
+      "Strict-Transport-Security": "max-age=31556952",
+      "server-timing": "cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare",
+      "x-content-type-options": "nosniff",
+      "x-served-by": "GRU",
+      "x-wix-request-id": "1794332154.256752398276852230",
+      "set-cookie": "__cf_bm=jr8SBk5b.MkkeWzk_gf3EwYnGuEAe2GeWp._ENDOA48-1794332154.2484248-1.0.1.1-PDm8qZWwAYukd.a58V52TvDG5Pjhq3K5dN9SPwAVlJneHx3i2Srg1eX0uC5eaWHOk9ZUsJzd.ji20yiqBzakVV8FWBhvDezY7USGej6TecH30KXaz9aXdAxnvpM3CZf.; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=www.ipirangabusinesscenter.com.br; Expires=Tue, 10 Nov 2026 18:05:54 GMT",
+      "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "text": "User-agent: *\nAllow: /\nDisallow: *?lightbox=\n\n# Optimization for Google Ads Bot\nUser-agent: AdsBot-Google-Mobile\nUser-agent: AdsBot-Google\nDisallow: /_partials*\nDisallow: /pro-gallery-webapp/v1/galleries/*\n\n# Block PetalBot\nUser-agent: PetalBot\nDisallow: /\n\n# Crawl delay for overly enthusiastic bots\nUser-agent: dotbot\nCrawl-delay: 10\nUser-agent: AhrefsBot\nCrawl-delay: 10\n\nSitemap: https://www.ipirangabusinesscenter.com.br/sitemap.xml\n\n# Auto generated, go to SEO Tools > Robots.txt Editor to change this"
+  },
+  {
+    "url": "https://www.ipirangabusinesscenter.com.br/sitemap.xml",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 10 Nov 2026 17:35:54 GMT",
+      "Content-Type": "text/xml; charset=utf-8",
+      "Content-Length": "261",
+      "Connection": "close",
+      "CF-Ray": "a586d0fd8812a4db-GRU",
+      "CF-Cache-Status": "HIT",
+      "Accept-Ranges": "bytes",
+      "Age": "37140",
+      "Cache-Control": "public,max-age=0,must-revalidate",
+      "Content-Language": "en",
+      "ETag": "W/\"105-2d+G55WdmMKh2PpGO0CCoY8cqQE\"",
+      "Server": "cloudflare",
+      "Strict-Transport-Security": "max-age=31556952",
+      "Vary": "Accept-Encoding",
+      "server-timing": "cache;desc=hit, varnish;desc=hit_hit, dc;desc=cloudflare",
+      "x-content-type-options": "nosniff",
+      "x-served-by": "GRU",
+      "x-wix-request-id": "1794332154.498375785190618026",
+      "set-cookie": "__cf_bm=1e4Ebm9Q__3UERCffJ7foMgtwim6VVyOJYY_sw_mGJ4-1794332154.4836218-1.0.1.1-mEwNsUAErXzKPiv7ga3Odaprr6MwMXUIGxzdI1Zz7VB85hLD9H9kV3XwtVnqMdyWMh8UhLsoQq6kdAHKFXUHu0hnvlU3Enb_LjEBjhUodHHX8NZ0QtTpGgc7XmWq68g.; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=www.ipirangabusinesscenter.com.br; Expires=Tue, 10 Nov 2026 18:05:54 GMT",
+      "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+      "alt-svc": "h3=\":443\"; ma=86400"
+    },
+    "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<sitemapindex xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\" generatedBy=\"WIX\">\n<sitemap>\n<loc>https://www.ipirangabusinesscenter.com.br/pages-sitemap.xml</loc>\n<lastmod>2026-10-24</lastmod>\n</sitemap>\n</sitemapindex>"
+  },
+  {
+    "url": "https://gabrielcano-git.github.io/ipirangabusinesscenter.com.br/robots.txt",
+    "status": 200,
+    "headers": {
+      "Connection": "close",
+      "Content-Length": "23",
+      "Server": "GitHub.com",
+      "Content-Type": "text/plain; charset=utf-8",
+      "x-origin-cache": "HIT",
+      "Last-Modified": "Tue, 10 Nov 2026 17:31:50 GMT",
+      "Access-Control-Allow-Origin": "*",
+      "ETag": "\"6af35506-17\"",
+      "expires": "Tue, 10 Nov 2026 17:45:54 GMT",
+      "Cache-Control": "max-age=600",
+      "x-proxy-cache": "MISS",
+      "X-GitHub-Request-Id": "306A:4C1EB:1C9A9:20EDC:6AF355FA",
+      "x-github-edge-region": "brazilsouth",
+      "Accept-Ranges": "bytes",
+      "Age": "0",
+      "Date": "Tue, 10 Nov 2026 17:35:54 GMT",
+      "Via": "1.1 varnish",
+      "X-Served-By": "cache-gru-sbgr1930024-GRU",
+      "X-Cache": "MISS",
+      "X-Cache-Hits": "0",
+      "X-Timer": "S1794332155.765952,VS0,VE142",
+      "Vary": "Accept-Encoding",
+      "X-Fastly-Request-ID": "a4234175699d7f859886a787db3f3b7887ac644b"
+    },
+    "text": "User-agent: *\nAllow: /\n"
+  },
+  {
+    "url": "https://gabrielcano-git.github.io/ipirangabusinesscenter.com.br/sitemap.xml",
+    "error": "HTTP Error 404: Not Found",
+    "status": 404
+  }
+]

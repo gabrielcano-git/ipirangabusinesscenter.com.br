@@ -1,0 +1,42 @@
+[
+  {
+    "element": "Botão primário; títulos em branco",
+    "foreground": "#113349",
+    "background": "#ffffff",
+    "ratio": 13.18,
+    "basis": "cores declaradas no CSS publicado; sem estilo computado",
+    "thresholdNormalText": 4.5
+  },
+  {
+    "element": "Título da abertura",
+    "foreground": "#113349",
+    "background": "#f4f4f4",
+    "ratio": 11.98,
+    "basis": "cores declaradas no CSS publicado; sem estilo computado",
+    "thresholdNormalText": 4.5
+  },
+  {
+    "element": "Texto da abertura",
+    "foreground": "#605e5e",
+    "background": "#f4f4f4",
+    "ratio": 5.86,
+    "basis": "cores declaradas no CSS publicado; sem estilo computado",
+    "thresholdNormalText": 4.5
+  },
+  {
+    "element": "Eyebrow na faixa escura",
+    "foreground": "#9cd8fb",
+    "background": "#113349",
+    "ratio": 8.55,
+    "basis": "cores declaradas no CSS publicado; sem estilo computado",
+    "thresholdNormalText": 4.5
+  },
+  {
+    "element": "Corpo em fundo branco",
+    "foreground": "#2f2e2e",
+    "background": "#ffffff",
+    "ratio": 13.54,
+    "basis": "cores declaradas no CSS publicado; sem estilo computado",
+    "thresholdNormalText": 4.5
+  }
+]

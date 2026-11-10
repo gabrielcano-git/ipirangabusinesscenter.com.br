@@ -1,0 +1,46 @@
+[
+  {
+    "kind": "antigo",
+    "device": "desktop",
+    "width": 1440,
+    "height": 900,
+    "url": "https://www.ipirangabusinesscenter.com.br/",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipirangabusinesscenter.com.br%2F?vpw=1440&vph=900&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  },
+  {
+    "kind": "antigo",
+    "device": "mobile",
+    "width": 390,
+    "height": 844,
+    "url": "https://www.ipirangabusinesscenter.com.br/",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.ipirangabusinesscenter.com.br%2F?vpw=390&vph=844&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  },
+  {
+    "kind": "novo",
+    "device": "desktop",
+    "width": 1440,
+    "height": 900,
+    "url": "https://gabrielcano-git.github.io/ipirangabusinesscenter.com.br/",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgabrielcano-git.github.io%2Fipirangabusinesscenter.com.br%2F?vpw=1440&vph=900&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  },
+  {
+    "kind": "novo",
+    "device": "mobile",
+    "width": 390,
+    "height": 844,
+    "url": "https://gabrielcano-git.github.io/ipirangabusinesscenter.com.br/",
+    "mshots_url": "https://s0.wp.com/mshots/v1/https%3A%2F%2Fgabrielcano-git.github.io%2Fipirangabusinesscenter.com.br%2F?vpw=390&vph=844&w=1200",
+    "capture_shows": "site",
+    "site_visibility": "unknown",
+    "status": "ready"
+  }
+]
