@@ -42,7 +42,7 @@ O workflow `.github/workflows/pages.yml` executa o build e as verificações ant
 
 No repositório de destino, selecione **Settings → Pages → Build and deployment → Source → GitHub Actions**. A URL definitiva aparece no ambiente `github-pages` e no resumo da execução concluída. Não é necessário configurar domínio personalizado, DNS, `CNAME` ou secrets de deploy.
 
-A ação `configure-pages` informa automaticamente o subdiretório da prévia. O script `prepare-pages.cjs` ajusta navegação, fotos, srcsets, preload e JavaScript para esse prefixo, adiciona `.nojekyll` e marca as páginas como `noindex, nofollow`. A prévia mantém os canonicals de produção e não publica sitemap; isso não constitui controle de acesso ao site público.
+A ação `configure-pages` informa automaticamente o subdiretório da prévia. O script `prepare-pages.cjs` ajusta navegação, fotos, srcsets, preload e JavaScript para esse prefixo, adiciona `.nojekyll` e permite o rastreamento, sem diretivas `noindex` ou `nofollow`. A prévia mantém os canonicals de produção e não publica sitemap; isso não constitui controle de acesso ao site público.
 
 Para reproduzir a preparação de um site de projeto:
 
